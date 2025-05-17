@@ -41,7 +41,8 @@ Paste a movie review and get a predicted rating!
 
 ## 📈 Example Plot
 
-![Actual vs Predicted](images/actual_vs_predicted.png)  
+![Actual vs Predicted](![actual_vs_predicted](https://github.com/user-attachments/assets/b5172617-4d0d-470e-9ba0-b6db9118a895)
+)  
 
 ---
 
